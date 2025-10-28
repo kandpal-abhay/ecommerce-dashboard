@@ -54,3 +54,6 @@ hs_err_pid*
 # Temporary files
 *.tmp
 *.bak
+
+# Documentation
+README.md
